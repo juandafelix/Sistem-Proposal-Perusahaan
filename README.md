@@ -1,4 +1,4 @@
-### Enterprise Approval System
+### Sistem Proposal Perusahaan
 
 ### Prasyarat Instalasi
 - PHP >= 8.2
