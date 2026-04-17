@@ -20,7 +20,7 @@
 4. Generate App Key
    php artisan key:generate
 
-5. Persiapan Database**
+5. Persiapan Database
    New-Item -Path database/database.sqlite -ItemType File
 
 6. Migration & Seeder
